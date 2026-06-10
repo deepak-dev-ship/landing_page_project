@@ -1,0 +1,43 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: bisque;
+}
+header
+{
+    background-color: burlywood;
+    padding: 20px;
+}
+header h1
+{
+    font-size: 20px;
+    color: cadetblue;
+}
+section
+{
+    padding: 20px;
+}
+h4
+{
+    font-size: 22px;
+}
+table
+{
+    width: 100%;
+}
+footer
+{
+    background-color: aqua;
+    padding: 20px;
+    font-size: 20px;
+}
+button
+{
+    background-color: aquamarine;
+    color: teal;
+    padding: 15px;
+}
